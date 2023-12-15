@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Paylaterr/static/css/main.0c14a032.css",
+    "main.js": "/Paylaterr/static/js/main.1a1448a9.js",
+    "static/js/787.fa9cb370.chunk.js": "/Paylaterr/static/js/787.fa9cb370.chunk.js",
+    "static/media/vnr002.jpeg": "/Paylaterr/static/media/vnr002.9e92149f1ac813f607bf.jpeg",
+    "static/media/Student_Login.jpeg": "/Paylaterr/static/media/Student_Login.0da26a9a111ff8c5863d.jpeg",
+    "static/media/staff.jpeg": "/Paylaterr/static/media/staff.67fe65c9c4d9db6813f9.jpeg",
+    "static/media/student.jpeg": "/Paylaterr/static/media/student.cf8a8853efa941f820a7.jpeg",
+    "index.html": "/Paylaterr/index.html",
+    "main.0c14a032.css.map": "/Paylaterr/static/css/main.0c14a032.css.map",
+    "main.1a1448a9.js.map": "/Paylaterr/static/js/main.1a1448a9.js.map",
+    "787.fa9cb370.chunk.js.map": "/Paylaterr/static/js/787.fa9cb370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c14a032.css",
+    "static/js/main.1a1448a9.js"
+  ]
+}
